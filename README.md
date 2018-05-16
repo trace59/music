@@ -2,8 +2,7 @@
 
 ## 在线演示
 
-<div align=center><a href="http://trace.cool:8080/#/recommend" target=_blank>在线预览戳我</a></div>
-<div align=center>为了更好的体验，请用开发者工具模拟移动端体验</div>
+<div align=center><a href="http://trace.cool:8080/#/recommend" target=_blank>在线预览（请用开发者工具模拟移动端体验）</a></div>
 <br>
 <div align=center>
 <img src="http://p5vvvsx56.bkt.clouddn.com/qqCode.png" width="20%">
